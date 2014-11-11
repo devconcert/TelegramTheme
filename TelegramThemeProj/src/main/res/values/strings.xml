@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">TelegramTalk Basic Theme</string>
+    <string name="AppName">TelegramTalk YellowDuck Theme</string>
     <string name="action_settings">Settings</string>
-    <string name="theme_title">Basic Theme</string>
+    <string name="theme_title">YellowDuck Theme</string>
     <string name="use_theme_intro">true</string>
 </resources>
