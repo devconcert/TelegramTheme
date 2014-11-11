@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">텔레그램톡 기본 테마</string>
+    <string name="action_settings">설정</string>
+    <string name="theme_title">기본 테마</string>
+    <string name="use_theme_intro">true</string>
+</resources>
