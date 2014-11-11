@@ -22,6 +22,7 @@
     <!-- ActionBar Text -->
     <color name="search_text">#ff54759e</color>
     <color name="title_text">#ff54759e</color>
+    <color name="subtitle_text">#ff54759e</color>
 
     <!-- Message Text-->
     <color name="you_text">#ff54759e</color>
