@@ -19,20 +19,4 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
         <item name="android:windowActionBarOverlay">true</item>
     </style>
-
-
-    <!--THEMES-->
-    <style name="Theme.TMessages.Start" parent="@android:style/Theme.Material">
-        <item name="android:actionBarStyle">@style/ActionBar.Transparent.TMessages.Start</item>
-        <item name="android:colorBackground">@android:color/white</item>
-        <item name="android:windowBackground">@android:color/white</item>
-        <item name="android:windowContentOverlay">@null</item>
-    </style>
-
-    <!--ACTION BAR-->
-    <style name="ActionBar.Transparent.TMessages.Start" parent="android:style/Widget.Material.Light.ActionBar">
-        <item name="android:background">@color/header</item>
-        <item name="android:logo">@drawable/transparent</item>
-        <item name="android:title">""</item>
-    </style>
 </resources>

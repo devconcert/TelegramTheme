@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TelegramTheme-Basic.iml" filepath="$PROJECT_DIR$/TelegramTheme-Basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TelegramTheme-Black.iml" filepath="$PROJECT_DIR$/TelegramTheme-Black.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelegramThemeProj/TelegramThemeProj.iml" filepath="$PROJECT_DIR$/TelegramThemeProj/TelegramThemeProj.iml" />
     </modules>
   </component>
