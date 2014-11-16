@@ -2,6 +2,8 @@
 <resources>
     <string name="AppName">텔레그램톡 러버덕 테마</string>
     <string name="action_settings">설정</string>
+    <string name="use_theme_intro">1</string>
+
     <string name="theme_title">러버덕 테마</string>
-    <string name="use_theme_intro">true</string>
+    <string name="theme_author">두들두들</string>
 </resources>

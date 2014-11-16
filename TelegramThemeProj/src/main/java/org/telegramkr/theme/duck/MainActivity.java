@@ -1,7 +1,7 @@
 /**
  * by Dev Concert
  */
-package org.telegramkr.theme.basic;
+package org.telegramkr.theme.duck;
 
 import android.content.Intent;
 import android.net.Uri;
