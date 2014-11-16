@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.telegramkr.theme.basic" >
-    <permission android:name="org.telegramkr.theme.V1" />
+
+    <uses-feature android:required="true" android:name="org.telegramkr.theme" />
+    <uses-permission android:name="org.telegramkr.theme.users" />
+    <permission android:name="org.telegramkr.theme.users" android:protectionLevel="normal" android:label="Telegram Theme Permission" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/AppName"
         android:theme="@style/AppTheme" >
-        <activity
-            android:name="org.telegramkr.theme.basic.MainActivity"
-            android:label="@string/AppName" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+
+        <meta-data android:name="org.telegramkr.theme.name" android:value="@string/theme_title"/>
+        <meta-data android:name="org.telegramkr.theme.author" android:value="@string/theme_author" />
     </application>
 </manifest>

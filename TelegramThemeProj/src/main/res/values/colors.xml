@@ -24,6 +24,11 @@
     <color name="title_text">#ff54759e</color>
     <color name="subtitle_text">#ff54759e</color>
 
+    <!-- Settings Text -->
+    <!-- TextColor, ActionBar Background. -->
+    <color name="cancel_text">#ff3b84c0</color>
+    <color name="set_text">#ff3b84c0</color>
+
     <!-- Message Text-->
     <color name="you_text">#ff54759e</color>
     <color name="me_text">#ff54759e</color>

@@ -29,10 +29,6 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="테마 삭제" />
-        <Button style="?android:attr/buttonBarButtonStyle"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="테마 적용" />
+
     </LinearLayout>
 </LinearLayout>
