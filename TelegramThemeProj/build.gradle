@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "org.telegramkr.theme.basic"
+        applicationId "org.telegramkr.theme.duck"
         minSdkVersion 8
         targetSdkVersion 20
         versionCode 1
