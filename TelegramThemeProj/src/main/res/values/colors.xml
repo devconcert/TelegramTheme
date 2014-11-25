@@ -33,14 +33,31 @@
     <color name="you_text">#ff54759e</color>
     <color name="me_text">#ff54759e</color>
 
-    <!-- Custom Theme -->
-    <color name="theme_default">#ff54759e</color>
-    <color name="theme_red">#a20000</color>
-    <color name="theme_green">#ff30d630</color>
-    <color name="theme_fucsia">#ffea148c</color>
-    <color name="theme_yellow">#f0eec506</color>
-    <color name="theme_violet">#ffdd8dfa</color>
-    <color name="theme_blue">#ff0606ee</color>
-    <color name="theme_purple">#ff5062b6</color>
-    <color name="theme_material_green">#ff009688</color>
+    <!-- Drawer Profile Text-->
+    <color name="drawer_profile_name_text">#ffffffff</color>
+    <color name="drawer_profile_phone_text">#ffffffff</color>
+    <color name="drawer_line_text">#ff212121</color>
+
+    <!-- Profile Text-->
+    <color name="profile_header_name_text">#ff212121</color>
+    <color name="profile_header_online_text">#ff4d83b3</color>
+
+    <!-- Chat Message Text-->
+    <color name="chat_header_name_text">#ff212121</color>
+    <color name="chat_header_online_text">#ff4d83b3</color>
+    <color name="chat_selected_message_count_text">#ff737373</color>
+    <color name="chat_time_in_text">#ffa1aab3</color>
+    <color name="chat_time_out_text">#ff70b15c</color>
+    <color name="chat_time_media_text">#ffffffff</color>
+
+    <!-- Dialog MessageLists Text Color -->
+    <color name="dialog_name_text">#ff212121</color>
+    <color name="dialog_name_encrypted_text">#ff212121</color>
+    <color name="dialog_name_unknown_text">#ff212121</color>
+    <color name="dialog_message_text">#ff212121</color>
+    <color name="dialog_line_text">#ff212121</color>
+    <color name="dialog_message_printing_text">#ff212121</color>
+    <color name="dialog_time_text">#ff212121</color>
+    <color name="dialog_count_text">#ff212121</color>
+
 </resources>
